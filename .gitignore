@@ -1,0 +1,2 @@
+.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.12.1/darwin_arm64/terraform-provider-kubernetes_v2.12.1_x5
